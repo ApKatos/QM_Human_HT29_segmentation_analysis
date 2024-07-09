@@ -1,6 +1,6 @@
 // Input and output directories
-inputDir = "C:\\Users\\patri\\Downloads\\QM_project_data\\BBBC018_v1_images\\BBBC018_v1_images\\";
-outputDir = "C:\\Users\\patri\\Downloads\\QM_project_data\\BBBC018_v1_images\\BBBC018_v1_images_tiff_test\\";
+inputDir = "BBBC018\\BBBC018_v1_images\\";
+outputDir = "BBBC018\\BBBC018_v1_images_tiff\\";
 
 // Get the list of all files in the input directory
 list = getFileList(inputDir);
